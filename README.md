@@ -3,7 +3,7 @@
 
 ###
 
-<img align="right" height="150" src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"  /><br>
+<img align="right" height="150" src="programming.gif"  /><br>
 
 ###
 
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+</div> <br>
 
 ###
 
@@ -35,11 +35,15 @@
 
 ###
 
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yushika-j&show_icons=true&theme=gotham" alt="yushika-j" />
+  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yushika-j)](https://github.com/ryo-ma/github-profile-trophy)
 
-🥰
+
+
+
+
 <!--
 **yushika-j/yushika-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
