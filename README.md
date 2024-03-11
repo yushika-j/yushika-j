@@ -1,5 +1,5 @@
 ### 
-<h2 align="left">Hi 👋! My name is Yushika and I'm a 3rd Year Student, from University of Ottawa</h2>
+<h2 align="left">Hi 👋! My name is Yushika and I'm a CS Student, from University of Ottawa</h2>
 
 ###
 
