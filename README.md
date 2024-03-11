@@ -68,4 +68,4 @@
 **yushika-j/yushika-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-![snake gif](https://github.com/yushika-j/yushika-j/blob/output/snake.gif)
+![snake gif](https://github.com/yushika-j/yushika-j/blob/output/snake.svg)
