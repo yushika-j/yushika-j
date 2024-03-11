@@ -69,3 +69,9 @@
 
 -->
 ![snake gif](https://github.com/yushika-j/yushika-j/blob/output/snake.svg)
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/yushika-j/count.svg?"  />
+</div>
+
