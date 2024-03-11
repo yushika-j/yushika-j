@@ -1,11 +1,11 @@
 ### 
-<h2 align="left">Hi 👋! My name is Yushika and I'm a CS Student, from University of Ottawa</h2>
+<h2 align="left">Hi 👋! My name is Yushika and I'm a CS Student from University of Ottawa</h2>
 
-###
+
 
 <img align="right" height="150" src="programming.gif"  /><br>
 
-###
+
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-plain.svg" height="50" alt="java logo" />
