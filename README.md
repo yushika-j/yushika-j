@@ -1,7 +1,7 @@
 ### 
 <h2 align="left">Hi 👋! My name is Yushika and I'm a CS Student from University of Ottawa</h2>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yushika-j&label=Profile%20views&color=blueviolet&style=plastic" alt="ozep" /> </p>
 
 <img align="right" height="150" src="programming.gif"  /><br>
 
