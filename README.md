@@ -48,7 +48,7 @@
 <br>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yushika-j&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yushika-j&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <div align="left">
