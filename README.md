@@ -40,7 +40,7 @@
 
 
 ###
-<img align="right" height="200" width="410" src="download.gif" />
+<img align="right" height="200" width="405" src="download.gif" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yushika-j&show_icons=true&theme=gotham" alt="yushika-j" />
 
 
