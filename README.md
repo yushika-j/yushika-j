@@ -34,13 +34,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="12" />
-</div> <br>
+</div> 
 
 ###
 
 
 ###
-<img align="right" height="150" src="download.gif"  /><br>
+<img align="right" height="200" width="410" src="download.gif" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yushika-j&show_icons=true&theme=gotham" alt="yushika-j" />
 
 
