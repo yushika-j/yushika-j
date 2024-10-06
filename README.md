@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yushika-j&label=Profile%20views&color=blueviolet&style=plastic" alt="ozep" /> </p>
 
-<img align="right" height="150" src="download.gif"  /><br>
+
 
 
 
@@ -40,7 +40,7 @@
 
 
 ###
-
+<img align="right" height="150" src="download.gif"  /><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yushika-j&show_icons=true&theme=gotham" alt="yushika-j" />
 
 
